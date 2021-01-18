@@ -6,7 +6,7 @@ Experiment with superimposing images on a variety of 3D Shapes, [live demo here]
 
 ## Image Repository
 Image repository server allowing signed up users to upload, store, and search images, try it using [API swagger page](http://52.73.210.69/api-docs/)
-<br><br><img src= "images/Imgrepo-web.png" width='500px' /> <br><br>
+<br><br><img src= "images/imgrepo-web.png" width='500px' /> <br><br>
 
 ## ImageUtil
 Work in progress: a bunch of interesting tools for fiddling around with images, try it using [API swagger page](http://52.201.47.119/api-docs/).
