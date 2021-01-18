@@ -1,8 +1,8 @@
 ### Recent Personal Projects
 
 ## Play3
-Experiment with superimposing images on a variety of 3D Shapes, [live demo here](https://zm2he.github.io/play3/index.html)
-<br><br><img src="images/Play3.JPG" width='500px' /><br><br>
+Experiment with superimposing images on a variety of 3D shapes, [live demo here](https://zm2he.github.io/play3/index.html)
+<br><br><img src="images/play3-1.png" width='100px' /><img src="images/play3-2.png" width='100px' /><img src="images/play3-3.png" width='100px' /><img src="images/play3-4.png" width='100px' /><img src="images/play3-5.png" width='100px' /><br><br>
 
 
 ## Movie Awards
