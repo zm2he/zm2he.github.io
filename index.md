@@ -10,7 +10,7 @@ Search movies, and add favorite movies to nominataion list (up to 5), [live demo
 <br><br><img src= "images/movieawards.png" width='500px' /> <br><br>
 
 ## Image Repository
-Image repository server allowing signed up users to upload, store, and search images, try [API swagger page](http://35.173.93.67:8080/api-docs/), or [live demo here](https://zm2he.github.io/imgrepo-web/index.html)
+Image repository server allowing signed up users to upload, store, and search images, try [API swagger page](http://35.173.93.67:8080/api-docs/), or [live demo here](http://35.173.93.67:8080/index.html)
 <br><br><img src= "images/imgrepo-web.png" width='500px' /> <br><br>
 
 ## ImageUtil
