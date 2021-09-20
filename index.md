@@ -14,5 +14,5 @@ Image repository server allowing signed up users to upload, store, and search im
 <br><br><img src= "images/imgrepo-web.png" width='500px' /> <br><br>
 
 ## ImageUtil
-Work in progress: a bunch of interesting tools for fiddling around with images, try [API swagger page](https://brucehe.ml/api-docs/), or [live demo here](https://zm2he.github.io/imgutil-web/index.html).
+Work in progress: a bunch of interesting tools for fiddling around with images, try [API swagger page](http://35.173.93.67:8081/api-docs/), or [live demo here](http://35.173.93.67:8081/index.html).
 <br><br> <img src="images/imgutil-web.png" width='500px' /><br><br>
